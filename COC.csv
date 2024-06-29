@@ -1,0 +1,718 @@
+Summary,Issue key,Issue Type,Status,Project lead,Assignee,Creator,Description,Sprint,Status Category
+Create a new page in the CXO PDF report HTML section,ZC-4581,Story,On Dev,mohamed.ismail@zybisys,Ashokkumar M,mohamed.ismail@zybisys,Create a new page in the CXO PDF report HTML section in pdf_report.ejs file for Cloud Connect Router,CXO Report Enhancements,In Progress
+Make necessary changes and correction in the CXO report's overall performance section,ZC-4580,Story,Code Review,mohamed.ismail@zybisys,Yogashree T S,mohamed.ismail@zybisys,"Make necessary changes and correction in the CXO report's overall performance section 
+
+{noformat}alignment issus in memory and disk
+
+overlap issue in cpu,memory,disk{noformat}",CXO Report Enhancements,In Progress
+Default 00 value to be passed as seconds in Custom date selection timestamp,ZC-4579,Story,Pull Request,mohamed.ismail@zybisys,mohamed.ismail@zybisys,mohamed.ismail@zybisys,Default 00 value to be passed as seconds in Custom date selection timestamp,,In Progress
+UAT(COC) => Home > Reports > Ip-Tracking => Common CSV File is getting Failed while Downloading the CSV File.,ZC-4576,Bug,To Do,mohamed.ismail@zybisys,mohamed.ismail@zybisys,Ajetganapathy.A,"In the COC, Home > Reports > iP-Tracking  the common Csv File is Getting Mismatch here.
+
+While Downloading.
+
+!Screenshot (4073).png|width=1440,height=810,alt=""Screenshot (4073).png""!
+
+
+
+!Screenshot (4074).png|width=1440,height=810,alt=""Screenshot (4074).png""!",ZCS - CoC - Testing,To Do
+Report Frontend screen changes Integration with backend functionality,ZC-4575,Story,To Do,mohamed.ismail@zybisys,mohamed.ismail@zybisys,mohamed.ismail@zybisys,Report Frontend screen changes Integration with backend functionality,CXO Report Enhancements,To Do
+Daily Reports setting  CXO report modification,ZC-4574,Story,Pull Request,mohamed.ismail@zybisys,mohamed.ismail@zybisys,mohamed.ismail@zybisys,"Manage-->Settings--> Daily Reports--> 
+
+# Default mail scheduler time 5AM sould enable or disable
+# there should be one field to add the scheduler field for CXO report Generation 
+# Option for repeat daily or Today",CXO Report Enhancements,In Progress
+"CXO report sent mail notification screen(new screen) in reports section, date, time, sent status, sent TO, CC(except @zybisys),BCC, Accepted, Rejected",ZC-4573,Story,Pull Request,mohamed.ismail@zybisys,Ajetganapathy.A,mohamed.ismail@zybisys,"CXO report sent mail notification screen(new screen) in reports section, date, time, sent status, sent TO, CC(except @zybisys),BCC, Accepted, Rejected",CXO Report Enhancements,In Progress
+IIS monitoring Graphs should display if we have the monitoring plugin for the windows instances,ZC-4572,Task,On Staging,mohamed.ismail@zybisys,Ajetganapathy.A,mohamed.ismail@zybisys,"IIS monitoring Graphs should display if we have the monitoring plugin for the windows instances.
+API needs modify to handle this scenario in frontend graphs to display only those instances having IIS monitoring plugins",COC-Monitoring Plugin Swasitik,In Progress
+UAT (COC) => Home > Manage > Firewall => There is no Presence of the API data in the API.,ZC-4564,Bug,To Do,mohamed.ismail@zybisys,mohamed.ismail@zybisys,Ajetganapathy.A,"In the API there is no Presence of the API data in the API in teh Firewall
+
+
+
+!Screenshot (4054).png|width=1440,height=810,alt=""Screenshot (4054).png""!
+
+
+
+!Screenshot (4055).png|width=1440,height=810,alt=""Screenshot (4055).png""!",ZCS - CoC - Testing,To Do
+"In COC -> UAT -> Dashboard -> Download csv file -> In the file its showing Backup Availabe, but currently there is no backup available in coc.Remove this column in csv file.",ZC-4560,Suggest,To Do,mohamed.ismail@zybisys,mohamed.ismail@zybisys,Tulasiram R,"
+
+!image-20240611-100037.png|width=1279,height=586,alt=""image-20240611-100037.png""!",ZCS - CoC - Testing,To Do
+"In production -> CXO report for all customers is showing ""No report"" for any interval. However, the Cloud Support team is receiving the CXO reports.",ZC-4558,Bug,To Do,mohamed.ismail@zybisys,mohamed.ismail@zybisys,Tulasiram R,"[^cxo_report_1717612200000.pdf]
+
+
+
+!image-20240610-044132.png|width=1279,height=679,alt=""image-20240610-044132.png""!",CXO Report Enhancements,To Do
+"In CoC -> Vivek customer -> zoomview -> Graphs -> specifically for IIS Monitoring of the IP address 10.194.5.9, calculation is showing wrong.",ZC-4556,Bug,To Do,mohamed.ismail@zybisys,Ajetganapathy.A,Tulasiram R,,ZCS - CoC - Testing,To Do
+Frontend May month and June Month Date Change for Zoom View and Cloud connect byte conversion testing,ZC-4554,Story,On Staging,mohamed.ismail@zybisys,Ajetganapathy.A,mohamed.ismail@zybisys,Need to Change date for the May month and June Month byte conversion testing,,In Progress
+Staging (COC) =>Home > Manage > Zoom-view > Graph > there is No data for any Instances in the Staging.but for the Same Instances in dev there is an Presence of data there in the API itself there is no data.,ZC-4538,Bug,To Do,mohamed.ismail@zybisys,mohamed.ismail@zybisys,Ajetganapathy.A,"h1. Staging (COC) =>Home > Manage > Zoom-view > Graph > there is No data for any Instances in the Staging.but for the Same Instances in dev there is an Presence of data there in the API itself there is no data.
+
+
+
+!Screenshot (3619).png|width=1440,height=810,alt=""Screenshot (3619).png""!
+
+!Screenshot (3620).png|width=1440,height=810,alt=""Screenshot (3620).png""!",ZCS - CoC - Testing,To Do
+QA Team Testing,ZC-4535,Subtask,To Do,mohamed.ismail@zybisys,mohamed.ismail@zybisys,mohamed.ismail@zybisys,QA Team Testing,COC-Monitoring Plugin Swasitik,To Do
+QA Testcase Preparation,ZC-4534,Subtask,To Do,mohamed.ismail@zybisys,mohamed.ismail@zybisys,mohamed.ismail@zybisys,QA Testcases Preparation,COC-Monitoring Plugin Swasitik,To Do
+Production Release,ZC-4532,Story,To Do,mohamed.ismail@zybisys,mohamed.ismail@zybisys,mohamed.ismail@zybisys,Production Release,CXO Report Enhancements,To Do
+QA Team Testing,ZC-4531,Story,To Do,mohamed.ismail@zybisys,mohamed.ismail@zybisys,mohamed.ismail@zybisys,QA Team Testing,CXO Report Enhancements,To Do
+QA Testcase Preparation,ZC-4530,Story,To Do,mohamed.ismail@zybisys,mohamed.ismail@zybisys,mohamed.ismail@zybisys,QA Testcase Preparation,CXO Report Enhancements,To Do
+CXO report contents to be added and removed from the PDF,ZC-4529,Story,In Progress,mohamed.ismail@zybisys,Yogashree T S,mohamed.ismail@zybisys,Unit Testing for the Report Changes,CXO Report Enhancements,In Progress
+"Weekly summary report :- Report should contain history of the GCP P2P link up,down",ZC-4528,Story,In Progress,mohamed.ismail@zybisys,Yogashree T S,mohamed.ismail@zybisys,"Weekly summary report :- Report should contain history of the GCP P2P  link up,down,
+flapped timing on the report, to understand how many time link is down / flapped. --> Pull out instance wise alert report weekly needs to be developed",CXO Report Enhancements,In Progress
+Daily CXO Report at Evening :- CXO Report will initiate again at evening @6:00 PM,ZC-4527,Story,In Progress,mohamed.ismail@zybisys,Yogashree T S,mohamed.ismail@zybisys,"Daily CXO Report at Evening  :- CXO Report will initiate again at evening @6:00 PM
+which include Cloud Connect usage graph with min & max bandwidth usage of the that day.  --> to be included Cloud Connect usage graph with min & max bandwidth usage of that day",CXO Report Enhancements,In Progress
+Daily CXO Report :- CXO report must have public IP as well as private IP of instance. --> Respective Private IP to be displayed part of report,ZC-4526,Story,In Progress,mohamed.ismail@zybisys,Yogashree T S,mohamed.ismail@zybisys,Daily CXO Report :-  CXO report must have public IP as well as private IP of instance.  -->  Respective Private to be displayed part of report,CXO Report Enhancements,In Progress
+Daily CXO Report :- All Location P2P Link status and BGP uptime status need to provide in daily CXO report.,ZC-4525,Story,In Progress,mohamed.ismail@zybisys,Yogashree T S,mohamed.ismail@zybisys,Daily CXO Report :- All Location P2P Link status and BGP uptime status need to provide in daily CXO report.,CXO Report Enhancements,In Progress
+"Dev(Admin) => Home > Coc-Panel > Dashboard => Selecting the Customer & Data-Center and in the Network Tab For Cpu, Ram & Average it is of Displaying Invalid Error-Message in the API.",ZC-4520,Bug,To Do,mohamed.ismail@zybisys,mohamed.ismail@zybisys,Ajetganapathy.A,"Dev(Admin) => *Home > Coc-Panel > Dashboard* => Selecting the Customer & Data-Center and in the Network Tab For Cpu, Ram & Average it is of Displaying Invalid Error-Message in the API.
+
+
+
+!Screenshot (3498).png|width=1440,height=810,alt=""Screenshot (3498).png""!
+
+!Screenshot (3499).png|width=1440,height=810,alt=""Screenshot (3499).png""!",ZCS - CoC - Testing,To Do
+In COC -> Cloud connect ->west -1 -> usage -> Top apps -> received is showing 0 in trishul but in coc data is showing.,ZC-4497,Bug,To Do,mohamed.ismail@zybisys,Ajetganapathy.A,Tulasiram R,"
+
+!image-20240510-075643.png|width=1608,height=972,alt=""image-20240510-075643.png""!
+
+
+
+!image-20240510-075656.png|width=1865,height=1022,alt=""image-20240510-075656.png""!
+
+
+
+!image-20240510-075706.png|width=1747,height=975,alt=""image-20240510-075706.png""!",ZCS - CoC - Testing,To Do
+"Similar issue found during the testing for the Custom Date Filter in To date it is automatically changing the date to current date and time, please look in to it",ZC-4495,Subtask,To Do,mohamed.ismail@zybisys,Tulasiram R,mohamed.ismail@zybisys,,ZCS - CoC - Testing,To Do
+1. Reports-->Geo Traffic Logic Change to as per the current requirement  2. Manage-->Zoom View-->Internet-->Geo Traffic Section,ZC-4493,Task,Testing on UAT,mohamed.ismail@zybisys,mohamed.ismail@zybisys,mohamed.ismail@zybisys,"[~accountid:712020:51020960-41f2-4eb3-aaf6-31f47bfe63c6] 
+As per the discussion with Anshul, we need to have the changes in 
+1. Reports-->Geo Traffic Logic Change to as per the current requirement  
+
+2. Manage-->Zoom View-->Internet-->Geo Traffic Section
+
+Logic to change Passing the IP to Trisul to fetch the data based on the following cases
+
+Use Case 1: 
+=======
+
+Pass the particular IP from the frontend to the Trisul server and get the list based on the selection
+
+Use Case 2: 
+=======
+
+Fetch the list based on the UID, if we select *All* from the frontend
+
+CC: [~accountid:5eb12dd79ce9ee0b89746942] ",ZCS - COC Enhance,In Progress
+CoC demo users provision and sample data for all the screens,ZC-4490,Story,To Do,mohamed.ismail@zybisys,mohamed.ismail@zybisys,Vasanth G,"There is requirement from the product team,
+
+ 
+
+Currently, the sales and service delivery team are facing a challenge during the COC demo due to a lack of provisions for demo users and sample data. As a result, the team ends up using the Dev environment, which is unstable and subject to frequent changes—this is not recommended. Therefore, we must create a user for the demo and add the necessary data to this user.",,To Do
+In Admin -> Bill summary -> Total value is showing wrong.,ZC-4481,Bug,To Do,mohamed.ismail@zybisys,Anshul Reejonia,Tulasiram R,"
+
+!image-20240506-071949.png|width=1279,height=678,alt=""image-20240506-071949.png""!",ZCS - CoC - Testing,To Do
+"In COC, under the ""Grow Customer"" section, it seems that data from the GCP router was previously being received, but currently, no data is being received.",ZC-4478,Bug,To Do,mohamed.ismail@zybisys,mohamed.ismail@zybisys,Tulasiram R,,ZCS - CoC - Testing,To Do
+In dev(COC) => Home > Manage > Settings > There is no Validation for adding Same mail-id Multiple Times.,ZC-4469,Story,Pull Request,mohamed.ismail@zybisys,mohamed.ismail@zybisys,Ajetganapathy.A,"*In dev(COC) => Home > Manage > Settings >*  There is no Validation for adding Same mail-id Multiple Times.
+
+That’s need to Implement in Daily-reports, Notifications, Cloud-Connect
+
+CC: [~accountid:712020:37b95068-4084-4405-9d26-0879bb468817] 
+
+!uSRpxj66XtLybTT4kjFojKXX7Mejw9C2Kkx__5hDbdWGHN91TsM2iGacxb5aUFX_Xkud87XK2PUh64c39mRgbcKrmpqfC1KS9VikbPMWsYJ1Wa3zJXM3K3SuM-39Fe2WCFe6jBybqGNSVY-chXF3b_A|width=1600,height=900!",,In Progress
+"In Dev-> Coc -> Lama Report -> For system, Network, Application, Database, IP'S is not showing.",ZC-4468,Bug,To Do,mohamed.ismail@zybisys,mohamed.ismail@zybisys,Tulasiram R,"
+
+!image-20240425-135600.png|width=1279,height=679,alt=""image-20240425-135600.png""!",ZCS - CoC - Testing,To Do
+"COC-Admin -> Billing -> Bill Summary -> For Calendar, disable the ""to"" date selection in the calendar if the ""from"" date is before May 1st until April 30th, 2024.",ZC-4467,Story,To Do,mohamed.ismail@zybisys,manibalan,Kunal Khandu Shinde,"For testing purpose, disable the ""to"" date selection in the calendar if the ""from"" date is before Apr 1st until Mar 31st, 2024.",ZCS - CoC - Testing,To Do
+COC/COC-Admin/Vendor -> Cloud Connect -> Usage -> Bandwidth Graph -> Calculations should be done using 1000-bits method,ZC-4461,Story,In Progress,mohamed.ismail@zybisys,Ajetganapathy.A,Kunal Khandu Shinde,,ZCS - CoC - Testing,In Progress
+COC/COC-Admin/Vendor - Zoomview -> Graph -> Implement interface bandwidth graph in bit i.e. conversion will be implemented using 1000,ZC-4458,Story,In Progress,mohamed.ismail@zybisys,Ajetganapathy.A,Kunal Khandu Shinde,,ZCS - CoC - Testing,In Progress
+Bacula New Features and Roadmap-24,ZC-4457,Task,To Do,mohamed.ismail@zybisys,DEEPAKKUMAR.G,mohamed.ismail@zybisys,"|# Delete Jobs | is done - removing data from the volume is pending|
+|# Auto agent deploy via COC|
+|# Bacula-dir.conf file splitting as per customers.|
+|# Data retention policy and data rotation|
+|# Data replication in different DC for data durability & HA|
+|# Data download option via SFTP and show the download link in COC.|
+|11) Plan backup traffic via management network|
+|12) Data Encryption on rest|
+|13) Capacity increase & decrease|
+|15) Replication form one DC to another|
+|16) Bacula service overview dashboard for NOC team.|
+|17) Failure job auto ticketing assignment to team|
+|19) Test Bootstart File concept to take the backup of bar-matel servers /boot partition and restore when there is a failure.|
+|20) CDP - Continuous Data Protection|
+|21) Restrict API access only to certain Ips for security reason|
+|22) job clone and detect duplicate job creation in COC respective customers|
+|23) Auto prune need to set as ""YES "" while creating pool|
+|25) Max bandwidth per job is 100Mbps, this need to be implement as default settings in COC|
+|26) Create a new job via Admin on behalf of the customer|
+|27) Online payment gateway integration|
+|28) Option for the customer to cancel the subscription in COC|
+|29) Parallel job execution and testing|
+|30) Parallel restore execution and testing|",ZCS-COC-Bacula Enhancements,To Do
+SAAS-COC SMC customer Interface is 1GB by we are showing in bytes,ZC-4453,Bug,To Do,mohamed.ismail@zybisys,Altrel Fero,Altrel Fero,"
+
+!image-20240423-075233.png|width=1022,height=605,alt=""image-20240423-075233.png""!
+
+
+
+!image-20240423-075309.png|width=802,height=435,alt=""image-20240423-075309.png""!
+
+the interface  capacity  is 1GB  but we are showing 111.63Mbps ",ZCS - COC Enhance,To Do
+In dev(COC) => Home > Report > Top-Apps —> when we Come from the other Modules without clicking the “Submit-Button” it is of displaying “Undefined”.,ZC-4449,Bug,To Do,mohamed.ismail@zybisys,mohamed.ismail@zybisys,Ajetganapathy.A,"In *dev(COC) => Home > Report > Top-Apps* —> when we Come from the other Modules without clicking the “*Submit-Button*” it is of displaying *“Undefined”.*
+
+Here, it is of then the when Coming from other Module to *Top-Apps ,* it is of Displaying *Undefined* without Clicking the “*Submit*” Button
+
+In the API, also it is Listing the *“Undefined”*
+
+!7f65lOSR_oiNsTuogzHmH3U91MEivQCd2t3cv_ZPW3tQDLfqddGEKYdj27M3hMSJTmzMsM7Rg2Wr-6ZHH3uFZEeq87Norz2Y-RdAK1j_6g7LMu_9poS03eeynBmM-t0Khl4Z1CQ98uhkq3puHZnTBy8|width=1600,height=900!
+
+*API-Response:*
+
+
+
+!Screenshot (3132).png|width=1440,height=810,alt=""Screenshot (3132).png""!
+
+!Screenshot (3133).png|width=1440,height=810,alt=""Screenshot (3133).png""!",ZCS - CoC - Testing,To Do
+In Dev(COC) => Home > Report > Summary Report From and To Timing is more than the Actual Timing.,ZC-4411,Story,To Do,mohamed.ismail@zybisys,Anshul Reejonia,Ajetganapathy.A,"In *Dev(COC) => Home > Report > Summary Report* From and To Timing is more than the Actual Timing.
+
+
+
+But, here it is displaying data as 0B.
+
+!GlbWLgZ0TBwWAE3D6aNeZh6n3os7TLtT5GgsYIg1FsXL9Igqc9jifL9QY9zVwHIHOCsDL52bdJHNYi4XAkNhoNY_Lp23kt1YcoPTJ2Awp7udOg8mYaJa_thOtphhFH4iWCRumw-HoIy9U5jV_B_urIM|width=1600,height=900!",ZCS - CoC - Testing,To Do
+In Dev(COC) => Home > Manage > Instance > Clicking on the Notifications it is Displaying the State as “Unknown”.,ZC-4358,Bug,To Do,mohamed.ismail@zybisys,Anshul Reejonia,Ajetganapathy.A,"In *Dev(COC)* => *Home > Manage > Instance >* Clicking on the Notifications it is Displaying the State as *“Unknown”.*
+
+
+
+Checked with Nagarjuna Customer -> aliceblue.. Location west-2
+
+
+
+But In API it is displaying other name it is mismatching with the API & UI.
+
+!THX1a0-J5OJ44lv-80GaICLA_NfxooSwGh6gA4h-FFY2HfZGVxyLKnvOS_TUV_9v205frtGRO5ZMUP4FI04UQZpgGSeLsEan4P9cvIqiPNEyAuHFbGDmsWN5mAMsCDL9mdEqMLVtUZ8RpOQTFE0kVS0|width=1600,height=900!
+
+!fCBnbwfrPhiAsKmZZiSPgNwFb7hxT5mQ1jzDBgdpI3KmlHbfu1TJ30U6HjekuiLENWRMfb49g2SHr5rV-ZkWmP0X3QDwo488lheEajkFIaubjuGDMPjx7mWx-UKeyABvrCy3vhYxvgULHShvQYRD83k|width=1600,height=900!",ZCS - CoC - Testing,To Do
+"In Dev(COC) => Home > Dashboard ? the Instances Ip Address is wrong the API Data itself is wrong here, invalid Private Ip format. This comes under the Virtual Instances.",ZC-4335,Bug,To Do,mohamed.ismail@zybisys,Anshul Reejonia,Ajetganapathy.A,"In *Dev(COC)* => *Home > Dashboard ?* the Instances Ip Address is wrong the API Data itself is wrong here, invalid Private Ip format. This comes under the Virtual Instances.
+
+!1T0JZjPyogRqpUmGoWiyjbi1iERh8xezCziZMdWs9961p94vkAt366cl94kMGcbwNFsBm6vYI_t87MQWeGqedeWky4EsXueX5qq_aeImmeQ6nwf74n-Df9-zx2TX6pPQTa9tlXMSBxxvkRd_9Yy1T9U|width=1600,height=900!
+
+
+
+!hLazp78zexesJDY3V0o7-gx0CSKFif7PowidOUopse-yBY_m3KgjWMkzdRfE9bsNje1_U8cVg6tp-CVEToaNivbtg35HroNyjKD3HlPuQA2uBejqRPzqhNtLFeHu_EfRMixEpDZUsmBNzU0LX5Tankg|width=1600,height=900!",ZCS - CoC - Testing,To Do
+In dev(Admin) => Home > Coc-Panel > Zoom-view > Customer & Data-center Clicking on Chennai West-3 it is displaying the data of Mumbai West-2.,ZC-4325,Bug,To Do,mohamed.ismail@zybisys,Anshul Reejonia,Ajetganapathy.A,"In dev(Admin) => *Home > Coc-Panel > Zoom-view > Customer & Data-center* Clicking on Chennai West-3 it is displaying the data of Mumbai West-2
+
+
+
+!OCcZN-XjOycJ0I09bujFqEAwKTbwJAmYiSvOlyGVaJf4Mk2kQE1RmxN5v0JUM_7LpehJUamfIh2ty4PmLul3Qrca701VdcOV7qtUbAHEodiYb-G5eC771EgjpusOL8vSAmDDAgvyIGS7EfJ_6AMPUNM|width=1600,height=900!
+
+
+
+
+
+!Screenshot (2896).png|width=1440,height=810,alt=""Screenshot (2896).png""!",ZCS - CoC - Testing,To Do
+Dev(Admin) => Home > Coc Panel > Cloud Connect > usage > while hovering on the graph the graph is displaying the data but in API it is showing empty.,ZC-4315,Bug,To Do,mohamed.ismail@zybisys,Anshul Reejonia,Ajetganapathy.A,"Dev(Admin) => *Home > Coc Panel > Cloud Connect > usage >* while hovering on the graph the graph is displaying the data but in API it is showing empty.
+
+!3JfyFg8HaDVU0Tg7sbshbkZAnf9JLVi3ED2tjr6RMlcJWAFqzXBd7iHzFQef-VyIrqxCqlHhwMnuOOVf-Ys6x5xM2IdDZ35GqwVG96iGHUC08YF9nwXshZoxxjS_FrR4VLVUbCiPC3Rkig2zl2mjJL8|width=1600,height=900!",ZCS - CoC - Testing,To Do
+"In Admin -> Cloud Connect -> Alice Blue Customer -> Usage -> For the two routers available in West 2 and Chennai, the usage data is incorrect.",ZC-4280,Bug,ReOpen,mohamed.ismail@zybisys,mohamed.ismail@zybisys,Tulasiram R,"
+
+!image-20240404-072943.png|width=1279,height=680,alt=""image-20240404-072943.png""!
+
+
+
+!image-20240404-073748.png|width=1279,height=676,alt=""image-20240404-073748.png""!",ZCS - CoC - Testing,To Do
+Dev(COC) => Home > Manage > Zoom-view > Services & Graph & Internet in Zebu Customer with the location of mumbaiWest-1 there is an Presence of the Duplicated Ip.,ZC-4214,Story,To Do,mohamed.ismail@zybisys,Anshul Reejonia,Ajetganapathy.A,"Here , in Zebu Customer , In *dev(Coc) => Home > Manage > Zoom-view > Services & Graph & Interne*t there is an Presence of the Duplicated API .
+
+!PsfL_sz5fJReQnTPsV1wrofJKoFPRDpPJMaS4mDvneb1gYbi7IUC6Y_6-VyKF6MH54wyY4ehB_ffQBPxkLuSMnIVXiNw9kQj23ydTo0H_ZP4s7y-1tDCXwWVw2tiEaA4z6hxKSDBWHMmYhL7uQjRneQ|width=1600,height=900!
+
+It should be Removed.
+
+!Screenshot (2782).png|width=1440,height=810,alt=""Screenshot (2782).png""!
+
+!Screenshot (2783).png|width=1440,height=810,alt=""Screenshot (2783).png""!",ZoomView- Delete Sprint,To Do
+Dev(COC) => Home > Reports > Ip Tracking & Top Apps & Geo Traffic there is an Presence of the Common CSV File to send the Reports to the Respective mails. with no Report.,ZC-4211,Story,To Do,mohamed.ismail@zybisys,Anshul Reejonia,Ajetganapathy.A,"Here, in  *Dev(COC)* => *Home > Report > Ip Tracking & Top Apps & Geo Traffic* there is an Presence of the Common CSV File in the Corner  of the page to send the report to the Respective mail Id’s with there is no Report Attached.
+
+*Screenshots:*
+
+!OERx1Rzzlyaw_Gt8JaNJrFiwB1i-oABiPzawuRC3kVjkaLlEL56d0kVIxtPSnjGZKpeLWg7fgYmubnYEL7f61ukhdGFh6lhVzv_a8ntNfRA6oZHkfhyNpv5ywfLDCqVZPVMjVwUhIkZOupMZsp7ElRY|width=1600,height=900!
+
+
+
+!report commoon.png|width=737,height=446,alt=""report commoon.png""!",ZoomView- Delete Sprint,To Do
+Firewall NOC Dashboard New requirements,ZC-4171,Story,Testing,mohamed.ismail@zybisys,Ajetganapathy.A,Vasanth G,"Firewall NOC Dashboard New Features and Enhancement existing NOC dashboard
+
+# Firewall Type (Virtual / Physical)
+# Firewall Vrrp Status ( Master / slave (primary / slave))
+# Firewall IPSec Tunnel Count  & which are the tunnel is down , it should show the details like tunnel name , firewall name,ip,location,type, Firewall source & destination public ip & customer name ( incase this this is belongs any of the customer firewall)  
+# Firewall firmware Version Current version and latest available version
+# Firewall resource cpu,memory,hdd usage reach 50% warning and reach 60% critical & when enabled interface is down 
+# Firewall vrrp Primary / vrrp Secondary firewall rule matching or not, if not  matching which not matching.
+# Firewall License Status, if firewall license is about to expire in 60days it has to alert , like warning  and  30days critical
+#  Firewall Configuration Change log 
+# Firewall interface Bandwidth capacity reach 50% warning and reach 60% critical",COC-NOC Room Firewall,To Do
+Dev(COC) => Home > Manage > Zoom-View > Graph > The graph data is getting Hidden when we hover on it.,ZC-4159,Bug,To Do,mohamed.ismail@zybisys,Anshul Reejonia,Ajetganapathy.A,"Here, in *Dev(COC)* => *Home > Manage > Zoom-view > Graph-->* When we Hover on the Graph The Graph data is getting Hidden 
+
+here, 
+
+But In *Home > Manage > Zoom-View > Internet > Internet Activities >* When we hovered the data is Displaying Perfectly it is Not getting Hidden.
+
+*Video-explanation:*
+
+[https://www.loom.com/share/d02ebb25b495421f891bd52b54f9aad7|https://www.loom.com/share/d02ebb25b495421f891bd52b54f9aad7|smart-link] 
+
+
+
+*Screen-Shots:*
+
+!Screenshot (2695).png|width=1440,height=810,alt=""Screenshot (2695).png""!
+
+!Screenshot (2696).png|width=1440,height=810,alt=""Screenshot (2696).png""!
+
+!Screenshot (2697).png|width=1440,height=810,alt=""Screenshot (2697).png""!
+
+!Screenshot (2698).png|width=1440,height=810,alt=""Screenshot (2698).png""!",ZoomView- Delete Sprint,To Do
+Dev(Admin) => Home > Billing > Bill Summary > Consolidated Bills > Clicking on the Invoice Button > Display the Popup and in that Popup Clicking on the Create Invoice Anyways Button the API is showing "504 Gateway Time out". error.,ZC-4144,Bug,To Do,mohamed.ismail@zybisys,Anshul Reejonia,Ajetganapathy.A,"Here, in *Dev(Admin)* => *Home > Billing > Bill Summary > Consolidated Bills > Clicking on the Invoice Button >* it will Display the pop-up In that click the Button of the *Create Invoice Anyways ..*
+
+For that there is an API Error it is Displaying *“504 Gateway Time Out” error here.*
+
+
+
+*Video-Explanation here:*
+
+[https://www.loom.com/share/6d7986c05c5f4399af88e1f232841b0d|https://www.loom.com/share/6d7986c05c5f4399af88e1f232841b0d|smart-link] 
+
+*Screen shots:*
+
+!Screenshot (2659).png|width=1440,height=810,alt=""Screenshot (2659).png""!
+
+!Screenshot (2658).png|width=1440,height=810,alt=""Screenshot (2658).png""!",ZoomView- Delete Sprint,To Do
+Dev(COC) => Home > Manage > Zoom-View > Internet > Internet Activities > Apps > Spelling mistakes Mismatching to UI to CSV File.,ZC-4142,Story,To Do,mohamed.ismail@zybisys,Anshul Reejonia,Ajetganapathy.A,"Here, in *Dev(COC)* => *Home > Manage > Zoom-View > Internet > Apps >* There is a Minor Spelling Issue here.
+
+In *UI it is displaying the Active-Connection, Total Connection.*
+
+But  in *CSV File it is Displaying the Active Conn , Total Conn.*
+
+!Screenshot (2654).png|width=1440,height=810,alt=""Screenshot (2654).png""!
+
+!Screenshot (2655).png|width=1440,height=810,alt=""Screenshot (2655).png""!",ZoomView- Delete Sprint,To Do
+Dev(Admin) => Home > Customer > View > Sub Customer > Subscriptions> Add Renew Button > The Start date & Expiry date is of Wrong and it is getting Accepted.,ZC-4135,Bug,To Do,mohamed.ismail@zybisys,Anshul Reejonia,Ajetganapathy.A,"Here, in Dev(Admin) => *Home > Customer > View > Sub- Customer > Subscriptions > Add Renew Button* giving of the Wrong data on Start date & Expiry date it is getting Accepted 
+
+!Screenshot (2613).png|width=1440,height=810,alt=""Screenshot (2613).png""!
+
+
+
+And Not displaying any ERROR.",ZoomView- Delete Sprint,To Do
+"Dev(COC) => Home > Manage > Zoom-view > Graph > Selecting Instances Button it is displaying the API, but it is duplicated",ZC-4132,Story,To Do,mohamed.ismail@zybisys,Anshul Reejonia,Ajetganapathy.A,"Here, in *Dev(COC)* => *Home > Manage > Zoom-View > Graph > Select Instances* by selecting all the data the Graph data is listing or telling No data according to the data.
+
+But here, in *Abdul Customer* The *API-data* itself Giving three data for One Instance.
+
+*Checked with the Host-name in Network tab*
+
+!Screenshot (2582).png|width=1440,height=810,alt=""Screenshot (2582).png""!
+
+!Screenshot (2583).png|width=1440,height=810,alt=""Screenshot (2583).png""!
+
+
+
+!Screenshot (2584).png|width=1440,height=810,alt=""Screenshot (2584).png""!
+
+!Screenshot (2585).png|width=1440,height=810,alt=""Screenshot (2585).png""!",ZoomView- Delete Sprint,To Do
+"In Zoom view=>Infrastructure>Performance>Process, Here start time and vsz value is missing for windows server.",ZC-4064,Bug,To Do,mohamed.ismail@zybisys,Anshul Reejonia,SUSMITHA R,"In Zoom view=>Infrastructure>Performance>Process, Here start time and vsz value is missing. For Windows server in UI showing   vsx & Start time  but in API there is no  vsz and start time, Instead of pm and vm is displayed.
+
+!image-20240321-135631.png|width=1280,height=720!",ZoomView- Delete Sprint,To Do
+"ZOOMVIEW > ROLES > Add roles > for adding roles , there is no (role data) in API for adding the roles",ZC-4052,Bug,To Do,mohamed.ismail@zybisys,Anshul Reejonia,SARANRAJ,"{color:#4c9aff}*ROLES > Add roles >* {color}*for adding roles , there is no* {color:#ff5630}*(role data) in API response*{color} *for adding the roles.*
+
+*API is giving empty for roles (backend issue)*
+
+[https://staging-api-zoomview.zybisys.com/saas-auth/api/v1/role-group|https://staging-api-zoomview.zybisys.com/saas-auth/api/v1/role-group]
+
+!image-20240321-075557.png|width=1280,height=720!",ZoomView- Delete Sprint,To Do
+"ZoomView -> Even if there are two servers with the same hostname but different IP addresses, the hostname is still not displayed on the Dashboard.",ZC-4036,Bug,To Do,mohamed.ismail@zybisys,Anshul Reejonia,Tulasiram R,"!image-20240320-095709.png|width=623,height=491!
+
+!image-20240320-095745.png|width=1279,height=675!
+
+Here 10.192.1.89 and 10.192.1.91 for this two servers hostname is same but still its showing only 1 server.",ZoomView- Delete Sprint,To Do
+In dev -> firewall -> unused port is showing wrong.,ZC-4024,Bug,To Do,mohamed.ismail@zybisys,Amit Prajapati,Tulasiram R,"!Screenshot 2024-03-19 150524-20240319-093525.png|width=1279,height=681!
+
+5803 is showing unused port,
+
+unused port = 1day * 5 mb
+
+30*5 = 150mb, if it is more than 150 mb permonth than it is used port, if it is less than 150mb than it is unused port
+
+!Screenshot 2024-03-19 150453-20240319-093454.png|width=763,height=19!
+
+But in the above screenshot 5803 port is taking 2.65GB but still it is in unused port.",ZoomView- Delete Sprint,To Do
+DEV (COC) > Manage > Instances > if we click on notification it shows unknown in state row,ZC-4005,Bug,ReOpen,mohamed.ismail@zybisys,Altrel Fero,SARANRAJ,"{color:#0747a6}*Dev > manage > instances > if* {color}*we click on the notification for a instance , it shows UNKNOWN , in the state column.*
+
+!image-20240316-102003.png|width=1280,height=720!
+
+!image-20240316-102031.png|width=1280,height=720!",Testing ZCS - Sulfur,To Do
+"DEV > VENDOR (or) PARTNER page > Dashboard > while comparing DEV and Vendor page, for the instances data is mismatching",ZC-3989,Bug,To Do,mohamed.ismail@zybisys,mohamed.ismail@zybisys,SARANRAJ,"* While comparing *DEV & VENDOR* page, for the instances Dashboard table of content > Bandwidth data is mismatching in *DEV VENDOR* page 
+* In *API* also it doesn’t give any bandwidth response.
+* below screen shot for API response
+* !image-20240318-074743.png|width=1280,height=720!
+!image-20240316-092856.png|width=1280,height=720!",Testing ZCS - Sulfur,To Do
+Project ZCloud,ZC-3965,Epic,To Do,mohamed.ismail@zybisys,Anshul Reejonia,Anshul Reejonia,,,To Do
+Project Zoomview,ZC-3958,Epic,To Do,mohamed.ismail@zybisys,Anshul Reejonia,Anshul Reejonia,,,To Do
+In DEV-vendor=> Firewall page is in loading state,ZC-3955,Bug,To Do,mohamed.ismail@zybisys,mohamed.ismail@zybisys,SUSMITHA R,"h1. In DEV-vendor=> Firewall page is in only in  loading state cannot able to see the data.
+
+!image-20240316-065558.png|width=1280,height=720!",Testing ZCS - Sulfur,To Do
+In DEV-vendor=> Table header name and data  is mis-matching with API and UI,ZC-3943,Bug,To Do,mohamed.ismail@zybisys,Ajetganapathy.A,SUSMITHA R,"In DEV-vendor=>Zoomview>Internet >Session Flow> Table header name and data is mis-matching with API and UI
+
+!image-20240316-062605.png|width=1280,height=720!
+
+!image-20240316-063155.png|width=1280,height=720!",Testing ZCS - Sulfur,To Do
+In DEV-COC and DEV-vendor=>Here CPU and Memory is missing,ZC-3924,Bug,To Do,mohamed.ismail@zybisys,mohamed.ismail@zybisys,SUSMITHA R,"In DEV-COC and DEV-vendor=> When compared in Vendor page > CPU and Memory is missing
+
+!image-20240315-104804.png|width=1280,height=720!
+
+!image-20240315-104859.png|width=1280,height=720!",Testing ZCS - Sulfur,To Do
+Zoom-view =>Lama > UAT > Settings In 1 step while Clicking the Enable & Disable Button it is displaying the Toastify Message in invalid format.,ZC-3845,Bug,On Dev,mohamed.ismail@zybisys,Sonu Verma,Ajetganapathy.A,"Here, in *LAMA > UAT> Settings > In 1st Step >* Clicking the *Enable & Disable Button* it is of Displaying the *Toastify Message* in *Invalid Format.*
+
+
+
+And the Toastify Message is in  *“x”* Mark is also Not in Correct Format.
+
+
+
+!Screenshot (2052).png|width=1440,height=810!
+
+!Screenshot (2053).png|width=1440,height=810!
+
+
+
+!Screenshot (2050).png|width=1440,height=810!",ZoomView- Delete Sprint,In Progress
+Add tabs in firewall for incoming and outgoing,ZC-3785,Task,To Do,mohamed.ismail@zybisys,Amit Prajapati,md shahbaz,,ZoomView- Delete Sprint,To Do
+Zoom-view => In Profile > Inside the Account details there is an Presence of the Copy functionality but it is not working,ZC-3715,Bug,On Dev,mohamed.ismail@zybisys,Sonu Verma,Ajetganapathy.A,"Here, in Zoom-view,  [*https://lab-zoomview.zybisys.com/profile*|https://lab-zoomview.zybisys.com/profile] in Profile there is an Account Settings > Inside the *Account setting* near to the Customer Id there is an *Presence of Copy Functionality* but it is *not working Correctly*.
+
+!Screenshot (1943).png|width=1440,height=810!",ZoomView- Delete Sprint,In Progress
+we are continually get disconnection on check alert dashboard (dev.2.zybisys.com) in our Noc Room Tv..Also its not refreshing automatically.,ZC-3473,Bug,To Do,mohamed.ismail@zybisys,Amit Prajapati,Tulasiram R,"!image-20240203-073826.png|width=895,height=592!
+
+!image-20240203-074808.png|width=1012,height=577!",,To Do
+add tabs in firewall for incoming and outgoing,ZC-3366,Story,On Dev,mohamed.ismail@zybisys,Altrel Fero,Anshul Reejonia,,ZCS Cloud Connect R&D,In Progress
+Resize Instance,ZC-3348,Story,To Do,mohamed.ismail@zybisys,Anshul Reejonia,Anshul Reejonia,,,To Do
+UI enhancement: Group,ZC-3342,Story,To Do,mohamed.ismail@zybisys,Anshul Reejonia,K Shweta Kumari,,,To Do
+UI enhancement:Instances,ZC-3341,Story,To Do,mohamed.ismail@zybisys,Anshul Reejonia,K Shweta Kumari,,,To Do
+UI enhancement: Network,ZC-3340,Story,To Do,mohamed.ismail@zybisys,Anshul Reejonia,K Shweta Kumari,,,To Do
+Print and save all the exchange related error codes for all exchange and need a weekly review to improve our system,ZC-3339,Story,To Do,mohamed.ismail@zybisys,Anshul Reejonia,Anshul Reejonia,,,To Do
+Log all the notifications and errors on the links (CloudConnect-->Logs),ZC-3338,Story,To Do,mohamed.ismail@zybisys,Anshul Reejonia,Anshul Reejonia,,,To Do
+UI enhancement: Roles,ZC-3335,Story,To Do,mohamed.ismail@zybisys,Amit Prajapati,K Shweta Kumari,"*Requirements:*
+
+Compare with ZCloud role:
+
+* Display data
+
+!image-20240123-122022.png|width=1217,height=617!
+
+* Create role
+
+!image-20240123-122149.png|width=54.86010612638689%!
+
+!image-20240123-122340.png|width=1218,height=618!
+
+* Update role
+
+!image-20240123-122505.png|width=1218,height=623!
+
+* Delete role
+
+!image-20240123-122557.png|width=1218,height=620!",,To Do
+UI enhancement: Users,ZC-3334,Story,To Do,mohamed.ismail@zybisys,Amit Prajapati,K Shweta Kumari,"*Requirements:*
+
+Compare ZCloud Users to Openstack:
+
+* show data in table as it is in screenshot with action
+
+!image-20240123-113507.png|width=1217,height=523!
+* create form
+
+!image-20240123-113757.png|width=96.52274753736413%!
+
+* delete user
+
+!image-20240123-113925.png|width=96.52274753736413%!
+
+* change password
+
+!image-20240123-114201.png|width=96.52274753736413%!
+
+* Disable/enable user - API call, no popup required for confirmation
+
+!image-20240123-114649.png|width=96.52274753736413%!
+
+!image-20240123-114403.png|width=92.92035398230088%!
+
+when user click on disable/enable user, the action menu gets closed but if you open again while API is in pending state this how it looks
+
+!image-20240123-115035.png|width=1219,height=620!
+
+* update user
+
+!image-20240123-120512.png|width=1215,height=622!
+
+",,To Do
+BGB Status for DCI - API,ZC-3304,Story,On Dev,mohamed.ismail@zybisys,Anshul Reejonia,Anshul Reejonia,,,In Progress
+Ping Router - Check_mk plugin,ZC-3303,Story,In Progress,mohamed.ismail@zybisys,Anshul Reejonia,Anshul Reejonia,,,In Progress
+UAT-ADMIN > VM Master > if we add a LAN IP and submit the data and again view the instances LAN IP is missing,ZC-3236,Bug,Pull Request,mohamed.ismail@zybisys,Dharun Udhaya K,SARANRAJ,"In VM Master page > if we add an LAN IP in the input and submit and again we see that instance details , the LAN IP is missing .
+
+!image-20240116-100636.png|width=1280,height=720!
+
+!image-20240116-100735.png|width=1280,height=720!",ZoomView- Delete Sprint,In Progress
+In UAT-COC=>Dashboard >Instance duplicate values is showing,ZC-3197,Bug,To Do,mohamed.ismail@zybisys,DEEPAKKUMAR.G,SUSMITHA R,"
+
+!image-20240112-074033.png|width=1280,height=720!",Testing ZCS - Sulfur,To Do
+Testing Review,ZC-3108,Epic,To Do,mohamed.ismail@zybisys,Anshul Reejonia,Anshul Reejonia,,,To Do
+UAT(COC) -> Home > Reports > Ip Tracking > Network Error in Common CSV File for single instance also.,ZC-3079,Bug,To Do,mohamed.ismail@zybisys,Ajetganapathy.A,Ajetganapathy.A,"Here, in UAT(COC) ->Home> Reports > Ip Tracking While *Clicking and Downloading*  the Common CSV File for Particular Instances it is of Displaying “*Network Error* “.
+
+!Screenshot (1428).png|width=1440,height=810!
+
+!Screenshot (1429).png|width=1440,height=810!",,To Do
+UAT-COC- BILLING >Invoices >In view PDF > Amount total in words missing the indication like ( : = - ).,ZC-3048,Bug,To Do,mohamed.ismail@zybisys,Amit Prajapati,SARANRAJ,"In invoice PDF > there is total rupees in words is missed some indication like semicolon, comma, - for rupees .
+
+!image-20240108-103845.png|width=1280,height=720!",,To Do
+UAT-COC >Dashboard -> In search bar initially it shows "no data" but after searching an instance it shows all data in suggestion,ZC-3040,Bug,To Do,mohamed.ismail@zybisys,Ajetganapathy.A,SARANRAJ,"In search bar, initially it shows “no data”  as suggestion but if we search an instance and again search means it shows suggestion of all instance.
+
+It should give suggest initially all the instances .
+
+!image-20240108-093636.png|width=1280,height=720!
+
+!image-20240108-093726.png|width=1280,height=720!",Testing ZCS - Sulfur,To Do
+Nova | server,ZC-2957,Story,To Do,mohamed.ismail@zybisys,Muthulakshmy,Kunal Khandu Shinde,,,To Do
+Nova | renameserver,ZC-2956,Story,To Do,mohamed.ismail@zybisys,Muthulakshmy,Kunal Khandu Shinde,,,To Do
+Companymaster - putcompany,ZC-2914,Story,To Do,mohamed.ismail@zybisys,Muthulakshmy,Kunal Khandu Shinde,,,To Do
+Companymaster - postcompany,ZC-2913,Story,To Do,mohamed.ismail@zybisys,Muthulakshmy,Kunal Khandu Shinde,,,To Do
+Companymaster - getcompany,ZC-2912,Story,To Do,mohamed.ismail@zybisys,Muthulakshmy,Kunal Khandu Shinde,,,To Do
+Companymaster - deletecompany,ZC-2911,Story,To Do,mohamed.ismail@zybisys,Muthulakshmy,Kunal Khandu Shinde,,,To Do
+UAT=> Reports-ip tracking-for the ip received and transmitted values are not equal to total value,ZC-2903,Bug,To Do,mohamed.ismail@zybisys,Ajetganapathy.A,parameswari theegala,"!image-20231229-105233.png|width=1389,height=747!",,To Do
+UAT=>Reports-Ip tracking if iam selecting one month data its showing network error,ZC-2902,Bug,To Do,mohamed.ismail@zybisys,Amit Prajapati,parameswari theegala,"!image-20231229-104026.png|width=1394,height=761!",,To Do
+Zoomview - Agent (UI),ZC-2895,Story,On Staging,mohamed.ismail@zybisys,Ajetganapathy.A,Kunal Khandu Shinde,,,In Progress
+UAT->coc-Reports-Top Apps when iam downloading csv file its getting download to zybisys email even its showing in mail but report is not coming to email,ZC-2724,Bug,To Do,mohamed.ismail@zybisys,Anshul Reejonia,parameswari theegala,"!image-20231216-051833.png|width=1576,height=756!
+
+!image-20231216-051909.png|width=1407,height=767!",,To Do
+UAT coc--> Reports-ip tracking-when iam clicking on main csv file iam getting network error,ZC-2723,Bug,To Do,mohamed.ismail@zybisys,Anshul Reejonia,parameswari theegala,"!image-20231216-051321.png|width=1447,height=761!",,To Do
+CoC --> Cloud Connect --> NSE  Message Per Second in Exchange interface IP Wise,ZC-2715,Story,To Do,mohamed.ismail@zybisys,Anshul Reejonia,Vasanth G,"Message Per Second in NSE Exchange is permitted to set for IP wise Limit. So we have to capture the ip wise message per second.
+
+We have to give the option to set the limit per (exchange) ip wise . 
+
+Before start development discuss with me (Vasanth)",,To Do
+Dev coc=> manage-zoomview-internet-internetactivities -graph-if i click on mode another screen is opening but when i scroll down instnace name and ip address are getting disabled,ZC-2712,Bug,Pull Request,mohamed.ismail@zybisys,Ajetganapathy.A,parameswari theegala,"!image-20231213-125903.png|width=1405,height=763!",,In Progress
+"Dev coc---> for the aliceblue customer-chennai west-1 location dashboard data its showing , but if i check in firewall overview its not showing data",ZC-2695,Bug,To Do,mohamed.ismail@zybisys,Anshul Reejonia,parameswari theegala,"!image-20231207-111913.png|width=1421,height=749!
+
+!image-20231207-111942.png|width=1393,height=773!",,To Do
+Dev admin---> coc panel-instnaces-for the tradejini customer for the west one location in admin side its showing only but it should be like 25 instnaces,ZC-2694,Bug,To Do,mohamed.ismail@zybisys,Anshul Reejonia,parameswari theegala,"!image-20231207-104510.png|width=1389,height=747!
+
+!image-20231207-104559.png|width=1399,height=747!",,To Do
+Dev coc--->manage-zoomview-internet-in internet screen if i click on session flow i select ip and the timing interval is 15 minutes iam getting a network error.,ZC-2665,Bug,To Do,mohamed.ismail@zybisys,Anshul Reejonia,parameswari theegala,,,To Do
+"In admin panel -> VM MASTER -> if i select the location, ex:- west 2, then in customer dropdown also it will come only for west2 customers.",ZC-2648,Bug,To Do,mohamed.ismail@zybisys,Anshul Reejonia,Tulasiram R,"!image-20231204-125326.png|width=1279,height=675!
+
+!image-20231204-125401.png|width=1279,height=676!",,To Do
+Network Latency - Exchange - UI - API,ZC-2632,Story,To Do,mohamed.ismail@zybisys,Anshul Reejonia,Anshul Reejonia,,,To Do
+Network Latency - Exchange - Backend,ZC-2631,Story,To Do,mohamed.ismail@zybisys,Anshul Reejonia,Anshul Reejonia,,,To Do
+Cloud Connect Link UP / Down,ZC-2630,Story,In Progress,mohamed.ismail@zybisys,Anshul Reejonia,Anshul Reejonia,,,In Progress
+Zoomview Landing Page - UI Design,ZC-2620,Story,On Dev,mohamed.ismail@zybisys,Rengaraj,Anshul Reejonia,,,In Progress
+Dev admin--->customer screen three dots In View if i click “remove as primary “it is not functioning,ZC-2577,Bug,ReOpen,mohamed.ismail@zybisys,Arun P,parameswari theegala,"!image-20231118-074529.png|width=1241,height=671!",,To Do
+Customer Management,ZC-2559,Story,In Progress,mohamed.ismail@zybisys,K Shweta Kumari,Kunal Khandu Shinde,"* Create - input fields will be all inputs which we took from the user while signup except for company name, address and pincode
+* Update 
+* Delete 
+* Listing of sub-customer
+Welcome mail feature for sub-customer",ZCS Zoomview Designs,In Progress
+Profile Page,ZC-2558,Story,In Progress,mohamed.ismail@zybisys,K Shweta Kumari,Kunal Khandu Shinde,"* Display all the inputs taken from the user while signup 
+* All fields will be editable one by one (Refer COC - Admin for more clarity)
+* Additional step for email update, take email otp if user updates the email for verification purpose",ZCS Zoomview Designs,In Progress
+Forgot Password,ZC-2557,Story,In Progress,mohamed.ismail@zybisys,Rengaraj,Kunal Khandu Shinde,# Email ID,ZCS Zoomview Designs,In Progress
+Login Page,ZC-2556,Story,In Progress,mohamed.ismail@zybisys,Anshul Reejonia,Kunal Khandu Shinde,"# Email ID
+# Password",ZCS Zoomview Designs,In Progress
+Create Password,ZC-2555,Story,In Progress,mohamed.ismail@zybisys,Rengaraj,Kunal Khandu Shinde,"# Create Password 
+# Confirm Password",ZCS Zoomview Designs,In Progress
+Signup Page,ZC-2554,Story,In Progress,mohamed.ismail@zybisys,Rengaraj,Kunal Khandu Shinde,"# First Name 
+# Last Name
+# Email Id
+# Phone Number 
+# Company Name
+# Address
+# Pincode",ZCS Zoomview Designs,In Progress
+CoC Dashboard get data for cpu ram for 15 min,ZC-2538,Story,On Dev,mohamed.ismail@zybisys,Amit Prajapati,Anshul Reejonia,,,In Progress
+FYERS -> Firewall Rule Missing in Customer COC Dashboard.,ZC-4477,Story,To Do,mohamed.ismail@zybisys,mohamed.ismail@zybisys,Tulasiram R,"Hi Sir, 
+
+ 
+
+Customer has reported that below mention rule is not reflected in COC portal. 
+
+ 
+
+We have verify the dev COC there also this rule is missing .
+
+ 
+
+KIndly suggest.
+
+ 
+
+Rule ID :- 289 (Filter Rule ) 
+
+
+
+!image-20231109-132353.png|width=832,height=435!",,To Do
+"CPU, Memory, and Bandwidth > COC > Dashboard > We must determine the refresh rate time.",ZC-2514,Story,To Do,mohamed.ismail@zybisys,Anshul Reejonia,Altrel Fero,"!image-20231108-063613.png|width=1696,height=775!",,To Do
+Check_mk distributed monitoring implementation,ZC-2509,Story,To Do,mohamed.ismail@zybisys,Anshul Reejonia,Vasanth G,,,To Do
+OMS order mapping with Exchange order mapping - only for internal use & troublshooting for now,ZC-2506,R&D,To Do,mohamed.ismail@zybisys,manibalan,Anshul Reejonia,,ZCS Cloud Connect R&D,To Do
+Top App consumer,ZC-2502,R&D,To Do,mohamed.ismail@zybisys,Vasanth G,Anshul Reejonia,,ZCS Cloud Connect R&D,To Do
+Top B/w contributor,ZC-2501,R&D,To Do,mohamed.ismail@zybisys,Vasanth G,Anshul Reejonia,,ZCS Cloud Connect R&D,To Do
+Live B/W monitoring,ZC-2500,R&D,To Do,mohamed.ismail@zybisys,Altrel Fero,Anshul Reejonia,,ZCS Cloud Connect R&D,To Do
+old bearer token is not getting expired,ZC-2438,Story,To Do,mohamed.ismail@zybisys,Amit Prajapati,parameswari theegala,"# i logged in application i taken api and token from the application and hit in api getting response also in api , but after logged out application in api if we try to hit api we should get message like token expired , but iam not getting like that iam getting response.
+# !image-20231102-112936.png|width=1280,height=720!",,To Do
+Need discussion to anshul sir ,ZC-2421,Subtask,To Do,mohamed.ismail@zybisys,Anshul Reejonia,Amit Prajapati,,,To Do
+Need discussion to vasanth sir and fero,ZC-2420,Subtask,To Do,mohamed.ismail@zybisys,Altrel Fero,Amit Prajapati,,,To Do
+Pinkey - MSSQL Monitoring,ZC-2414,Story,To Do,mohamed.ismail@zybisys,Altrel Fero,Vasanth G,,ZCS Cloud Connect R&D,To Do
+"Need store the in depth logs, Starting with User activity logs",ZC-2369,Story,To Do,mohamed.ismail@zybisys,mohamed.ismail@zybisys,Vasanth G,"Need store the in depth  logs, using those logs , we can have our own security module to prevent the security issue .
+
+User Activity logs
+
+Invalid sessions, accessing invalid user credentials, Number of time login and failed login attempt and more 
+
+User Enter the wrong password 
+User Enter the wrong 2FA (2 Factor Authentication) 
+
+User Rest the password / Forgot password 
+User Try to access not permitted api  or page
+User Frequent page visit 
+
+
+Server side need to create the dedicated database to store this details, ",,To Do
+Create documentation for the Cloud connect screen. Same must added in the Documentation page.,ZC-2367,Story,To Do,mohamed.ismail@zybisys,Anshul Reejonia,Vasanth G,Create documentation for the Cloud connect screen. Same must added in the Documentation page.,,To Do
+Production---> user activity details are not coming in the previlege-user-log screen,ZC-2355,Bug,On Dev,mohamed.ismail@zybisys,Sonu Verma,parameswari theegala,"!image-20231026-111854.png|width=1280,height=683!",,In Progress
+Production-->Dashboard instances count and manage instances counts are not matching,ZC-2353,Bug,ReOpen,mohamed.ismail@zybisys,Ajetganapathy.A,parameswari theegala,"!image-20231026-111015.png|width=1279,height=685!
+
+!image-20231026-111112.png|width=1357,height=684!",,To Do
+Internet NOC Dashboard - 1 hour and 2 hour internet graph - API implementation,ZC-2350,Bug,To Do,mohamed.ismail@zybisys,Amit Prajapati,Anshul Reejonia,,,To Do
+"NOC Dashboard Switch We need to have add the switch and remove switch with authentication (OTP, mail) ",ZC-2324,Story,To Do,mohamed.ismail@zybisys,Anshul Reejonia,Altrel Fero,,,To Do
+Notification Service - Cloud Connect [ERROR LOGIN] - COC,ZC-2313,Story,On Dev,mohamed.ismail@zybisys,Anshul Reejonia,Sonu Verma,,,In Progress
+Notification Service - Cloud Connect [SUCCESS LOGIN] - COC,ZC-2312,Story,On Dev,mohamed.ismail@zybisys,Anshul Reejonia,Sonu Verma,,,In Progress
+R&D Firwall api  used and unused ports,ZC-2305,Subtask,In Progress,mohamed.ismail@zybisys,Amit Prajapati,Amit Prajapati,,,In Progress
+Meeting with vasanth Sir for confirmation data collection for unused ports records,ZC-2303,Subtask,In Progress,mohamed.ismail@zybisys,Amit Prajapati,Amit Prajapati,,,In Progress
+DEV2---->noc dashboard for new switch email notification should be there if any port is going down,ZC-2269,Story,In Progress,mohamed.ismail@zybisys,Sonu Verma,parameswari theegala,,,In Progress
+Dev2---> for new check alert dashboard up and down counts are not matching with check mk,ZC-2256,Bug,To Do,mohamed.ismail@zybisys,Ajetganapathy.A,parameswari theegala,"!image-20231012-065449.png|width=1278,height=683!
+
+!image-20231012-065532.png|width=1251,height=688!",,To Do
+"dev2 dashboard> check-alert >mismatches on Tolal ,UP ,DOWN count and in number of Warning count and critical count is mismatching",ZC-2254,Bug,To Do,mohamed.ismail@zybisys,Amit Prajapati,Altrel Fero,,,To Do
+"Pinkey >> For Window & linux server we need to monitor the top 5 Memory usage and ,CPU usage details of should display on service's",ZC-2243,R&D,In Progress,mohamed.ismail@zybisys,Anshul Reejonia,Altrel Fero,,,In Progress
+kaspersky -> we need to get the kasperskey status and update status through COC Dashboard,ZC-2241,R&D,To Do,mohamed.ismail@zybisys,mohamed.ismail@zybisys,Altrel Fero,,,To Do
+Nessus should scan the server and get the report through COC,ZC-2240,R&D,To Do,mohamed.ismail@zybisys,mohamed.ismail@zybisys,Altrel Fero,"We have getting  the API for Scan the server 
+
+Stage 1: Find the Solution 
+
+Stage 2: Discuss the solution is matching with expected feature 
+
+Stage 3: Explain the solution to the development team.",,To Do
+PingKey,ZC-2047,Epic,To Do,mohamed.ismail@zybisys,Anshul Reejonia,Anshul Reejonia,,,To Do
+"Mail alerts for Network Devices such as Switches, routers and firewall and storage device and web alerts.",ZC-2024,Task,To Do,mohamed.ismail@zybisys,Altrel Fero,Vasanth G,"Currently, we are not getting alerts for the network device, storage and web sites.
+
+Already network devices, storage, and websites are added in the check_mk, and these device-related alerts need to be sent to cloudsupport@zybisys.com",,To Do
+Host Down - API from Check_mk,ZC-2004,Task,On Staging,mohamed.ismail@zybisys,,Anshul Reejonia,,ZCS Helium,In Progress
+changes in Consolidated Billing and line item,ZC-1957,Story,To Do,mohamed.ismail@zybisys,Anshul Reejonia,Anshul Reejonia,,,To Do
+Zoho Billing,ZC-1956,Epic,To Do,mohamed.ismail@zybisys,Anshul Reejonia,Anshul Reejonia,,,To Do
+VM Masters,ZC-1955,Epic,To Do,mohamed.ismail@zybisys,Anshul Reejonia,Anshul Reejonia,,,To Do
+CoC Banner,ZC-1954,Epic,To Do,mohamed.ismail@zybisys,Anshul Reejonia,Anshul Reejonia,,,To Do
+Admin CoC Instance,ZC-1953,Epic,To Do,mohamed.ismail@zybisys,Anshul Reejonia,Anshul Reejonia,,,To Do
+"Vcenter DNS Name and server hostname are same i.e., nmvm-vns-ex-conn-01-live But in the COC hostname showing wrong",ZC-1935,Bug,To Do,mohamed.ismail@zybisys,Ajetganapathy.A,Tulasiram R,"!image-20230719-111849.png|width=1184,height=404!
+
+!image-20230719-112102.png|width=1419,height=613!",,To Do
+Refactor Code,ZC-1924,Epic,To Do,mohamed.ismail@zybisys,Anshul Reejonia,Anshul Reejonia,,,To Do
+Admin Banner,ZC-1923,Epic,To Do,mohamed.ismail@zybisys,Anshul Reejonia,Anshul Reejonia,,,To Do
+Network latency check ( Exchange and Public Cloud connectivity),ZC-1867,R&D,To Do,mohamed.ismail@zybisys,Vasanth G,Anshul Reejonia,,,To Do
+"Real time link status checking ( Telnet, ping, nping etc)",ZC-1866,R&D,To Do,mohamed.ismail@zybisys,manibalan,Anshul Reejonia,,,To Do
+VM related Network Settings,ZC-1812,Story,To Do,mohamed.ismail@zybisys,Vasanth G,Vasanth G,"Get the network related setting for the VM.
+
+For example, VLAN, NIC type, Speed, MAC, Network Name, Vswitch Details, Since when onwards port is up, etc., details.
+
+VM nic port CRC error, Packet count related details.",,To Do
+VCenter SDK,ZC-1795,Story,To Do,mohamed.ismail@zybisys,Anshul Reejonia,Anshul Reejonia,,,To Do
+Zoomview,ZC-1750,Epic,To Do,mohamed.ismail@zybisys,Anshul Reejonia,Anshul Reejonia,,,To Do
+Lama,ZC-1748,Epic,To Do,mohamed.ismail@zybisys,Anshul Reejonia,Anshul Reejonia,,,To Do
+Add comment option on Z-Talk - UI,ZC-1714,Task,To Do,mohamed.ismail@zybisys,mohamed.ismail@zybisys,Anshul Reejonia,,,To Do
+Add comment option on Z-Talk - API,ZC-1709,Task,To Do,mohamed.ismail@zybisys,Anshul Reejonia,Anshul Reejonia,,,To Do
+Implement Trisul microservice on CloudDS,ZC-1699,Story,To Do,mohamed.ismail@zybisys,Amit Prajapati,Anshul Reejonia,Fetch all data for Trisul API from MongoDB,,To Do
+2FA Authentication for cloud connect login  ,ZC-1687,Story,To Do,mohamed.ismail@zybisys,Abdul Rasool AR,Vasanth G,"2FA Authentication for cloud connect login .
+
+2FA login with Authenticator app ( google , microsoft,etc., authenticator)",,To Do
+"Notification : Config change notification to customer admin user. eg - firewall rule is added in to his COC, user created in COC, login failure attempts, etc.",ZC-1685,Task,To Do,mohamed.ismail@zybisys,Abdul Rasool AR,Abdul Rasool AR,"Admin user should have all the visibility of his infrastructure and any change happens on COC platform such 
+
+# multiple user login attempt 
+# firewall rule add/delete
+# Users added / removed in coc
+
+any thing which alters the configuration and critical for business such config change to be reported to Admin users. ",,To Do
+ZCS_Auth : Architecture ,ZC-1664,Task,In Progress,mohamed.ismail@zybisys,Vasanth G,Abdul Rasool AR,"Need to have more understanding of the ZCS_Auth service to avoid single token used  across the system, this will create breach in security. there should be access_tocket and post successful authentication there will be separate Service_Token to safeguard the customers data. Refer - Openstack Keystone document.",,In Progress
+click on configuration and click on upgrade and add capacity and agents and click offline.,ZC-1489,Subtask,To Do,mohamed.ismail@zybisys,parameswari theegala,parameswari theegala,,ZCS Helium,To Do
+In coc Backup overview Agents Assigned is equal or not to configuration page Agents,ZC-1481,Subtask,To Do,mohamed.ismail@zybisys,parameswari theegala,parameswari theegala,,ZCS Helium,To Do
+In coc Backup overview Agents Total is equal or not to configuration page current plan Agents,ZC-1480,Subtask,To Do,mohamed.ismail@zybisys,parameswari theegala,parameswari theegala,,ZCS Helium,To Do
+In coc Backup overview total is equal or not to configuration page current plan capacity,ZC-1479,Subtask,To Do,mohamed.ismail@zybisys,parameswari theegala,parameswari theegala,,ZCS Helium,To Do
+Automation---->Backup,ZC-1476,Story,In Progress,mohamed.ismail@zybisys,obulesu,parameswari theegala,,ZCS Helium,In Progress
+.Download csv file,ZC-1475,Subtask,To Do,mohamed.ismail@zybisys,parameswari theegala,parameswari theegala,,ZCS Helium,To Do
+Implement Lama Billing system,ZC-1394,Task,To Do,mohamed.ismail@zybisys,Abdul Rasool AR,Amit Prajapati,"Every month of the end ip wise bill will calculate
+cc/ [~accountid:5eb12dd79ce9ee0b89746942] ",ZCS Water Cannon 2,To Do
+In dev-coc -> cloud connect -> configuration -> add virtual ip for HSRP& VRRP Routers,ZC-1248,Task,In Progress,mohamed.ismail@zybisys,Altrel Fero,Tulasiram R,"!image-20230419-093912.png|width=1280,height=687!",ZCS Cloud Connect R&D,In Progress
+Gathering VM IP from Vcenter need to re-evaluate.,ZC-883,R&D,To Do,mohamed.ismail@zybisys,Vasanth G,Vasanth G,,,To Do
+"Firewall send lan1, lan2, wan1, wan2 (in + out) interface in firewall ",ZC-820,Story,On Dev,mohamed.ismail@zybisys,Anshul Reejonia,Anshul Reejonia,"Already implemented, getting data via checkmk. 
+
+Need to change source from checkmk ? firewall",,In Progress
+Notification Mail,ZC-813,Epic,To Do,mohamed.ismail@zybisys,Anshul Reejonia,Anshul Reejonia,,,To Do
+Check_MK,ZC-806,Epic,To Do,mohamed.ismail@zybisys,Anshul Reejonia,Anshul Reejonia,,,To Do
+Core Network device monitoring and alerting,ZC-804,Story,To Do,mohamed.ismail@zybisys,Abdul Rasool AR,Anshul Reejonia,,,To Do
+Create Git best practices document - explain team how to use git,ZC-757,Story,To Do,mohamed.ismail@zybisys,Anshul Reejonia,Anshul Reejonia,,,To Do
+Access Control in COC - same as Admin,ZC-669,Story,To Do,mohamed.ismail@zybisys,Abdul Rasool AR,Anshul Reejonia,,,To Do
+Acknowledge service and host alert & Schedule the host and service maintenance,ZC-664,Story,On Staging,mohamed.ismail@zybisys,Amit Prajapati,Anshul Reejonia,"Service / Host Downtime and Service Ack  Schedule
+
+In check_alert Maintence mode server should not be display, the same maintenense mode servers identification on Vm Master
+
+
+
+We should have the option to create a schedule, delete a schedule, and view the downtimes for the hosts.
+
+Acknowledge the service and host alerts, for example, warning, critical, and down. Already, we have to provide for the acknowledgement as well.",,In Progress
+Slack channel integration with COC,ZC-605,Story,To Do,mohamed.ismail@zybisys,,Anshul Reejonia,,,To Do
+Firewall CoC,ZC-602,Epic,To Do,mohamed.ismail@zybisys,,Anshul Reejonia,,,To Do
+"Exchange Link spike alert, threshold crossing alert",ZC-599,R&D,On Dev,mohamed.ismail@zybisys,Ajetganapathy.A,Anshul Reejonia,,,In Progress
+Reports COC,ZC-559,Epic,To Do,mohamed.ismail@zybisys,Ajetganapathy.A,K Shweta Kumari,,,To Do
+Automation Testing,ZC-426,Epic,To Do,mohamed.ismail@zybisys,Ajetganapathy.A,Anshul Reejonia,,,To Do
+UI Design,ZC-419,Subtask,In Progress,mohamed.ismail@zybisys,K Shweta Kumari,K Shweta Kumari,,,In Progress
+Development,ZC-404,Subtask,In Progress,mohamed.ismail@zybisys,Ajetganapathy.A,K Shweta Kumari,,,In Progress
+Create API for VCenter monitoring,ZC-397,Story,To Do,mohamed.ismail@zybisys,mohamed.ismail@zybisys,Anshul Reejonia,,,To Do
+NOC Room Dashboard,ZC-387,Epic,To Do,mohamed.ismail@zybisys,Ajetganapathy.A,Anshul Reejonia,,,To Do
+?Data Encryption on rest,ZC-382,Story,To Do,mohamed.ismail@zybisys,Abdul Rasool AR,Anshul Reejonia,"Plan backup traffic via the management network
+
+Max bandwidth per job is 100Mbps, this need to be implement as default settings in COC",,To Do
+API Development,ZC-379,Subtask,To Do,mohamed.ismail@zybisys,Ajetganapathy.A,Anshul Reejonia,,ZCS - COC Enhance,To Do
+Development,ZC-378,Subtask,In Progress,mohamed.ismail@zybisys,Ajetganapathy.A,Anshul Reejonia,,,In Progress
+API Development,ZC-377,Subtask,To Do,mohamed.ismail@zybisys,Ajetganapathy.A,Anshul Reejonia,,,To Do
+API Development,ZC-374,Subtask,To Do,mohamed.ismail@zybisys,Ajetganapathy.A,Anshul Reejonia,,,To Do
+VM capacity dashboard,ZC-372,Story,To Do,mohamed.ismail@zybisys,Abdul Rasool AR,Anshul Reejonia,"Vm Capacity dashboard contains of existing hypervisor resource usage.
+
+Base on the usage how many numbers of vm can be created , we can take any sample vm configuration for example 4 core cpu & memory 8GB using this how many vm can create, like forecasting. This will team to build and keep the capacity available and last-minute upgrade ; sudden resource crunch can avoid.
+
+What the provision ratio 1:1 (100%) to 1:2 (200% )etc..,",ZCS - COC Enhance,To Do
+Firewall health monitoring along with rule sync status,ZC-371,Story,On Dev,mohamed.ismail@zybisys,Ajetganapathy.A,Anshul Reejonia,,,In Progress
+Backup COC,ZC-233,Epic,To Do,mohamed.ismail@zybisys,,K Shweta Kumari,"As part of COC, backup is also a service. 
+
+User takes backup of instances which holds crucial folder or files. These selected files and folders of selected instance are stored in backup storage which user later on can retrive those files or folders.
+
+These backup can be scheduled based on Hourly, daily, Weekly, Monthly.
+
+Once backup has been done successfully, they can restore that backup to choice of their instances. They can even choose restore the backup of 5 days ago.",,To Do
+Back CoC new,ZC-227,Epic,To Do,mohamed.ismail@zybisys,,Anshul Reejonia,,,To Do
+?Insert COC CIDR field to Trisul-->Admin --> Home Network area,ZC-183,Story,To Do,mohamed.ismail@zybisys,Abdul Rasool AR,Abdul Rasool AR,"We need to capture the CIDR input from COC to Trisul, this will avoid manual entry in the system. ",,To Do
+Customer onboarding process,ZC-142,Task,To Do,mohamed.ismail@zybisys,Abdul Rasool AR,Abdul Rasool AR,Need customer onboarding process to be integrated in CRM / Admin ,,To Do
+Dashboard CoC ,ZC-72,Epic,To Do,mohamed.ismail@zybisys,,Anshul Reejonia,,,To Do
+Onboard Customer on CoC,ZC-71,Epic,To Do,mohamed.ismail@zybisys,,Anshul Reejonia,,,To Do
+RPC call from coc / Live state through TCP,ZC-70,Story,To Do,mohamed.ismail@zybisys,Abdul Rasool AR,Anshul Reejonia,,,To Do
+VCenter,ZC-67,Epic,To Do,mohamed.ismail@zybisys,Ajetganapathy.A,Anshul Reejonia,,,To Do
+Market Data,ZC-63,Epic,To Do,mohamed.ismail@zybisys,,Anshul Reejonia,,,To Do
+Create Dashboard for VCenter capacity  CoC Admin,ZC-29,Epic,To Do,mohamed.ismail@zybisys,,Anshul Reejonia,,,To Do
+?Backup billing and Create Invoice,ZC-18,Story,To Do,mohamed.ismail@zybisys,Abdul Rasool AR,Anshul Reejonia,"# Basic pack 2 instances with 500 GB
+# Rs. 8 per GB
+# Rs. 500 per instance
+# Create Bill Zoho",,To Do
+Cloud Connect CoC,ZC-15,Epic,To Do,mohamed.ismail@zybisys,Ajetganapathy.A,Anshul Reejonia,,,To Do
+User Panel  CoC,ZC-8,Epic,To Do,mohamed.ismail@zybisys,,Anshul Reejonia,,,To Do
+Admin Panel CoC Admin,ZC-1,Epic,To Do,mohamed.ismail@zybisys,,Anshul Reejonia,"Deploy Admin Panel to Prod
+
+Create custom Invoice 
+
+UI Fixes",,To Do
